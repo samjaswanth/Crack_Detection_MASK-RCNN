@@ -4,6 +4,6 @@ With the development happening in a rapid pace, there are lots of sky scrappers 
 Once the crack(s) are identified it will be easy to cure them which will increase the lifespan of the structure.
 Here we have used MASK-RCNN to identify and mark the cracks down.
 <p align="center">
-  <img src="Sample.PNG" width="600" height="600" title="hover text">
+  <img src="Sample.PNG" width="450" height="600" title="hover text">
   
 </p>
